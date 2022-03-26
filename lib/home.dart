@@ -84,7 +84,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   title: "WEB Developer",
                 ),
                 JobsItem(
-                  company: "OyunVeUygulamaAkademisi",
+                  company: "Oyun Ve Uygulama Akademisi",
                   desc: "Flutter ile mobil uygulama geliştrime",
                   title: "Mobil Developer",
                 ),
