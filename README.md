@@ -1,4 +1,4 @@
-# akademi_ek_ders_1
+# Flutter learning portfolio
 
 A new Flutter project.
 
